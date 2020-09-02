@@ -13,5 +13,11 @@ https://gist.github.com/Krishna-Ravi/fc334e57b02f08fd2a2e4421debdab43
 This smart contract is deployed on Ropsten Test Network.
 I've used metamask wallet for transactions, Ethereum testnet faucet for accessing few test ethers for the purpose of mining the block to the network.
 
+You can run the contract using https://remix.ethereum.org/ 
+
+Just create a file named ElectricityBills.sol and paste the code and compile it.
+
 The deployed contract can be found here.
 https://ropsten.etherscan.io/tx/0xf9217842b488599a7dc1d20eb5ee4891710f799cc28b89621f7d0dbaeb3324e4
+
+For any queries on how to deploy your contract or any other stuffs related to this.. Please feel free to contact me.
